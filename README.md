@@ -1,6 +1,8 @@
 
 # Febutify
 
+Official CA : 7ZesQ8mPT58H1kt4yoL6ZxJofKFM9SevvqagsgFFpump
+
 > **A surreal digital archive of odd ideas, dream scraps, haunted code, and internet-born stories waiting to be explored.**
 
 Febutify is an experimental digital space where imagination, code, storytelling, and internet culture collide. It serves as a living archive of surreal concepts, creative experiments, interactive objects, visual essays, and digital artifacts that exist somewhere between dreams and reality.
